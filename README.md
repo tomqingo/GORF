@@ -1,6 +1,7 @@
 # GORF
 
-Implementation of the paper *"Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels"* published in *IJCNN2021*
+Implementation of the paper *"Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels"* published in *IJCNN2021* 
+([https://arxiv.org/abs/2104.06204](https://arxiv.org/abs/2104.06204))
 
 - Variation Reduction
 
